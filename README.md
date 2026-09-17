@@ -1,5 +1,10 @@
 # Bioinformatics Toolkit
 
+🔗 **Live App:** [bioinformatics-toolkit.streamlit.app](https://bioinformatics-toolkit.streamlit.app/)
+
+A Streamlit web app for common bioinformatics tasks...
+# Bioinformatics Toolkit
+
 A Streamlit web app for common bioinformatics tasks: sequence analysis, pairwise/multiple sequence alignment, phylogenetic trees, ORF finding, restriction site search, and motif search.
 
 ## Features
